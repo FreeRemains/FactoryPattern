@@ -2,7 +2,7 @@
     public interface iBreakfast {
 
         string GetFood();
-
         int CookTime { get; }
+
     }
 }
